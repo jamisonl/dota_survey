@@ -1,0 +1,161 @@
+{
+  "carry": [
+    {
+      "type": "The animal",
+      "characteristics": [
+        "just wants to manfight their carry",
+        "will overextend to a disgusting degree for kills",
+        "will yell in voice chat out of excitement",
+        "sloppy laning, wins lane anyways because of aggression"
+      ]
+    },
+    {
+      "type": "The demolitonist",
+      "characteristics": [
+        "this guy stops you from pushing when you have aegis",
+        "only knows one god: the minimap",
+        "will mute teammates asking him to defend highground"
+      ]
+    },
+    {
+      "type": "The smoke and mirrors",
+      "characteristics": [
+        "puts on music playlist, only uses pings or '> Get Back!' to communicate",
+        "will take every scrap of farm available, even teammates",
+        "a true scholar of rtz gameplay"
+      ]
+    },
+    {
+      "type": "The ultracarry",
+      "characteristics": [
+        "god gamer or garbage gamer, flip a coin to see which one!",
+        "will flame the shit out of your team or be your team's cheerleader",
+        "loves big red numbers",
+        "just chasing that sweet sweet rampage"
+      ]
+    },
+    {
+      "type": "The slippery one",
+      "characteristics": [
+        "will focus one particular hero every fight",
+        "will build anything to avoid buying bkb",
+        "dies alone behind other teams t2, definitely won't take responsibility for it",
+        "hates disruptor with a passion"
+      ]
+    },
+    {
+      "type": "The 'carry'",
+      "characteristics": [
+        "somebody else picked jug offlane/medusa mid",
+        "ah shit here we go again.mp4",
+        "queues a different core role next game to make sure correct heroes are in their correct roles",
+        "subscribes to dotaplus for the avoid feature"
+      ]
+    }
+  ],
+  "offlane": [
+    {
+      "type": "The Chris",
+      "characteristics": [
+        "Your name is Chris",
+        "You're a beast",
+        "Your name is Chris and you're a beast"
+      ]
+    },
+    {
+      "type": "The tank",
+      "characteristics": [
+        "most likely to build a heart",
+        "probably played/plays MMOs",
+        "if this guy wins lane, he will win your game"
+      ]
+    },
+    {
+      "type": "The 200 iq",
+      "characteristics": [
+        "dominates lane",
+        "enormous teamfight impact",
+        "500 apm",
+        "48% winrate"
+      ]
+    },
+    {
+      "type": "The carry annihilator",
+      "characteristics": [
+        "hates the other carry as soon as laning starts",
+        "takes pride in making people miserable",
+        "uses dotaplus voicelines to let their carry know hes bad",
+        "will throw the gamejust to get one more kill on their carry"
+      ]
+    },
+    {
+      "type": "The team player",
+      "characteristics": [
+        "will probably be playing with their team from minute 10",
+        "most likely to get upset at their carry for farming",
+        "a true in game leader"
+      ]
+    },
+    {
+      "type": "The flashy playmaker",
+      "characteristics": [
+        "will either take no farm or all of it",
+        "nice rotations",
+        "probably would be a good mid player if laning mechanics were better"
+      ]
+    }
+  ],
+  "support": [
+    {
+      "type": "The pure 5",
+      "characteristics": [
+        "loves playing support",
+        "hates their carry most of the time though",
+        "obsessed over lane timings"
+      ]
+    },
+    {
+      "type": "The pure 4",
+      "characteristics": [
+        "lives for the roam",
+        "extremely confident",
+        "likely to argue with the offlaner",
+        "thinks dota is the best game ever created"
+      ]
+    },
+    {
+      "type": "The scholar",
+      "characteristics": [
+        "demoralizes every other player in the game with their uncommon picks",
+        "his team thinks he'll be bad",
+        "the other team think he'll be insane"
+      ]
+    },
+    {
+      "type": "The role queue farmer",
+      "characteristics": [
+        "knows he can't play support, goes in expecting to lose",
+        "not very good at warding",
+        "rotations aren't good either",
+        "EXCELLENT last hitting"
+      ]
+    },
+    {
+      "type": "The scary guy",
+      "characteristics": [
+        "lvl 20+ on dota plus",
+        "does not fuck up his spells",
+        "other team will always focus him late game"
+      ]
+    },
+    {
+      "type": "The core that doesn't farm",
+      "characteristics": [
+        "Don't expect them to buy sentries",
+        "will build big items instead of support items",
+        "might just carry the game by themselves",
+        "or maybe they just throw"
+      ]
+    }
+  ]
+}
